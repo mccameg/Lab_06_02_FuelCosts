@@ -24,7 +24,6 @@ public class Main {
         {
             trash = in.nextLine(); // if the input is invalid, it will be stored in trash
             System.out.println("Must enter a valid number for gallons of gas in the tank: " + trash); // output tells the user that their input was invalid and echoes their response back to them
-
         }
 
         System.out.print("What is the fuel efficiency of your car in miles per gallon?: "); //prompt to tell the user what to enter
